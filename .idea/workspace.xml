@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="323e9986-9f65-405e-9bd5-87a079b6376e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ofofo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/CommentRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/PostRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/requests/CreateCommentRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/requests/CreatePostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/CommentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/PostServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/data/repositories/CommentRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/data/repositories/PostRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/services/CommentServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/services/PostServiceImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IoG1Wb3mVSs1mTSRuwqv88pPos" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="data.repositories" />
+      <recent name="services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CommentServiceImplTest.test_that_create_works">
+    <configuration name="CommentRepositoryImplTest.delete_and_append_post_without_repeating_id" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ofofo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.CommentRepositoryImplTest" />
+      <option name="METHOD_NAME" value="delete_and_append_post_without_repeating_id" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommentRepositoryImplTest.delete_item_count_isZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ofofo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.CommentRepositoryImplTest" />
+      <option name="METHOD_NAME" value="delete_item_count_isZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommentServiceImplTest.test_that_create_works" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ofofo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.CommentServiceImplTest" />
+      <option name="METHOD_NAME" value="test_that_create_works" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostRepositoryImplTest.delete_and_append_post_without_repeating_id" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ofofo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.PostRepositoryImplTest" />
+      <option name="METHOD_NAME" value="delete_and_append_post_without_repeating_id" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostRepositoryImplTest.delete_item_count_isZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ofofo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data.repositories" />
+      <option name="MAIN_CLASS_NAME" value="data.repositories.PostRepositoryImplTest" />
+      <option name="METHOD_NAME" value="delete_item_count_isZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CommentServiceImplTest.test_that_create_works" />
+        <item itemvalue="JUnit.CommentRepositoryImplTest.delete_and_append_post_without_repeating_id" />
+        <item itemvalue="JUnit.CommentRepositoryImplTest.delete_item_count_isZero" />
+        <item itemvalue="JUnit.PostRepositoryImplTest.delete_and_append_post_without_repeating_id" />
+        <item itemvalue="JUnit.PostRepositoryImplTest.delete_item_count_isZero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="323e9986-9f65-405e-9bd5-87a079b6376e" name="Changes" comment="" />
+      <created>1670840313739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670840313739</updated>
+      <workItem from="1670840317020" duration="13071000" />
+      <workItem from="1670860996560" duration="344000" />
+      <workItem from="1670877403392" duration="12486000" />
+      <workItem from="1670914047713" duration="2080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
